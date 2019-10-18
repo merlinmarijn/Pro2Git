@@ -1,0 +1,22 @@
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L3\WIRWAR\obj\Debug\netcoreapp3.0\WIRWAR.csprojAssemblyReference.cache
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L3\WIRWAR\obj\Debug\netcoreapp3.0\WIRWAR.AssemblyInfoInputs.cache
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L3\WIRWAR\obj\Debug\netcoreapp3.0\WIRWAR.AssemblyInfo.cs
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L3\WIRWAR\bin\Debug\netcoreapp3.0\WIRWAR.exe
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L3\WIRWAR\bin\Debug\netcoreapp3.0\WIRWAR.deps.json
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L3\WIRWAR\bin\Debug\netcoreapp3.0\WIRWAR.runtimeconfig.json
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L3\WIRWAR\bin\Debug\netcoreapp3.0\WIRWAR.runtimeconfig.dev.json
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L3\WIRWAR\bin\Debug\netcoreapp3.0\WIRWAR.dll
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L3\WIRWAR\bin\Debug\netcoreapp3.0\WIRWAR.pdb
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L3\WIRWAR\obj\Debug\netcoreapp3.0\WIRWAR.dll
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L3\WIRWAR\obj\Debug\netcoreapp3.0\WIRWAR.pdb
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L3\WIRWAR\bin\Debug\netcoreapp3.0\WIRWAR.exe
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L3\WIRWAR\bin\Debug\netcoreapp3.0\WIRWAR.deps.json
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L3\WIRWAR\bin\Debug\netcoreapp3.0\WIRWAR.runtimeconfig.json
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L3\WIRWAR\bin\Debug\netcoreapp3.0\WIRWAR.runtimeconfig.dev.json
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L3\WIRWAR\bin\Debug\netcoreapp3.0\WIRWAR.dll
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L3\WIRWAR\bin\Debug\netcoreapp3.0\WIRWAR.pdb
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L3\WIRWAR\obj\Debug\netcoreapp3.0\WIRWAR.csprojAssemblyReference.cache
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L3\WIRWAR\obj\Debug\netcoreapp3.0\WIRWAR.AssemblyInfoInputs.cache
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L3\WIRWAR\obj\Debug\netcoreapp3.0\WIRWAR.AssemblyInfo.cs
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L3\WIRWAR\obj\Debug\netcoreapp3.0\WIRWAR.dll
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L3\WIRWAR\obj\Debug\netcoreapp3.0\WIRWAR.pdb

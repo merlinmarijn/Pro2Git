@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\marij\\OneDrive\\Documents\\bewijzenmap\\periode1.1\\pro2\\B1L2\\WhatsMyName\\WhatsMyName.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\marij\\OneDrive\\Documents\\bewijzenmap\\periode1.1\\pro2\\B1L2\\WhatsMyName\\WhatsMyName.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marij\\OneDrive\\Documents\\bewijzenmap\\periode1.1\\pro2\\B1L2\\WhatsMyName\\WhatsMyName.csproj",
+        "projectName": "WhatsMyName",
+        "projectPath": "C:\\Users\\marij\\OneDrive\\Documents\\bewijzenmap\\periode1.1\\pro2\\B1L2\\WhatsMyName\\WhatsMyName.csproj",
+        "packagesPath": "C:\\Users\\marij\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marij\\OneDrive\\Documents\\bewijzenmap\\periode1.1\\pro2\\B1L2\\WhatsMyName\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marij\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

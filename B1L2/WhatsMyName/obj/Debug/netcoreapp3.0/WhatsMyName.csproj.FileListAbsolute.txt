@@ -1,0 +1,22 @@
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L2\WhatsMyName\bin\Debug\netcoreapp3.0\WhatsMyName.exe
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L2\WhatsMyName\bin\Debug\netcoreapp3.0\WhatsMyName.deps.json
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L2\WhatsMyName\bin\Debug\netcoreapp3.0\WhatsMyName.runtimeconfig.json
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L2\WhatsMyName\bin\Debug\netcoreapp3.0\WhatsMyName.runtimeconfig.dev.json
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L2\WhatsMyName\bin\Debug\netcoreapp3.0\WhatsMyName.dll
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L2\WhatsMyName\bin\Debug\netcoreapp3.0\WhatsMyName.pdb
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L2\WhatsMyName\obj\Debug\netcoreapp3.0\WhatsMyName.csprojAssemblyReference.cache
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L2\WhatsMyName\obj\Debug\netcoreapp3.0\WhatsMyName.AssemblyInfoInputs.cache
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L2\WhatsMyName\obj\Debug\netcoreapp3.0\WhatsMyName.AssemblyInfo.cs
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L2\WhatsMyName\obj\Debug\netcoreapp3.0\WhatsMyName.dll
+C:\Users\M. De Steur\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L2\WhatsMyName\obj\Debug\netcoreapp3.0\WhatsMyName.pdb
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L2\WhatsMyName\bin\Debug\netcoreapp3.0\WhatsMyName.exe
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L2\WhatsMyName\bin\Debug\netcoreapp3.0\WhatsMyName.deps.json
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L2\WhatsMyName\bin\Debug\netcoreapp3.0\WhatsMyName.runtimeconfig.json
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L2\WhatsMyName\bin\Debug\netcoreapp3.0\WhatsMyName.runtimeconfig.dev.json
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L2\WhatsMyName\bin\Debug\netcoreapp3.0\WhatsMyName.dll
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L2\WhatsMyName\bin\Debug\netcoreapp3.0\WhatsMyName.pdb
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L2\WhatsMyName\obj\Debug\netcoreapp3.0\WhatsMyName.csprojAssemblyReference.cache
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L2\WhatsMyName\obj\Debug\netcoreapp3.0\WhatsMyName.AssemblyInfoInputs.cache
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L2\WhatsMyName\obj\Debug\netcoreapp3.0\WhatsMyName.AssemblyInfo.cs
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L2\WhatsMyName\obj\Debug\netcoreapp3.0\WhatsMyName.dll
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode1.1\pro2\B1L2\WhatsMyName\obj\Debug\netcoreapp3.0\WhatsMyName.pdb
